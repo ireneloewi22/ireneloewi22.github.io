@@ -5,17 +5,17 @@
     
     <entry>
       <title>Github更换域名每次部署后失效解决方案</title>
-      <link href="/cl6xnt9qd0000s8vw7nro46np.html"/>
-      <url>/cl6xnt9qd0000s8vw7nro46np.html</url>
+      <link href="/cl9f42xd1000n1wvw0oxkctyn.html"/>
+      <url>/cl9f42xd1000n1wvw0oxkctyn.html</url>
       
         <content type="html"><![CDATA[<h5 id="求人不如求己啊"><a href="#求人不如求己啊" class="headerlink" title="求人不如求己啊"></a>求人不如求己啊</h5><p>　　今天在阿里云买了个新域名，DNS解析完去github设置，至此一切正常。但在新一次部署之后页面404了。github仍然显示着已被更换的新域名，说明前面的设置应该没有问题。<br>　　本着重启就好的思路，重新设置了一遍github pages，好了，以为问题解决。没想到接下来崩溃地发现每次hexo d之后域名都会失效。面对不断的404，新手懵逼，疯狂百度。</p><p>　　网上常见的解决方法是：</p><a id="more"></a><h5 id="方法-1"><a href="#方法-1" class="headerlink" title="方法 1"></a>方法 1</h5><blockquote><p>在source目录下添加一个无后缀，全程为全大写的CNAME文件，并在文件内写入有且只有你的域名。</p></blockquote><p>　　照着来，并check了github仓库该CNAME文件已被放在正确的位置。<br>　　hexo deploy，再次404。<br>　　：）</p><h5 id="方法-2"><a href="#方法-2" class="headerlink" title="方法 2"></a>方法 2</h5><p>　　然后我看有人说，DNS解析只配置CNAME到原来的github.io和一个本地IP是不够的，他让我添加4个解析记录：<br><code>181.199.108.153 181.199.109.153 181.199.110.153 181.199.111.153</code><br>　　虽然我一度怀疑是否有必要把4个IP都写出来，因为根据他们介绍的原理，4个里写一个就可以了，但经过几次cmd里ping博客的本地地址，发现确实会变化。这人是照着官方pages做的，我看了看原版，虽然看得我云山雾罩甚至觉得大可不必，但嗯，是我大言不惭吧应该。<br>　　虽然这一步可能是必要的，但只有这一步并未改变每次部署完新域名都会失效的问题。然后我看到了这个说法：</p><h5 id="方法-3"><a href="#方法-3" class="headerlink" title="方法 3"></a>方法 3</h5><p>安装插件：<br><code>npm install hexo-genarator-cname --save</code><br>然后在站点配置文件中添加：<br><code>Plugins: -hexo-generator-cname</code><br>　　到了这儿如果跟第一种添加CNAME文件冲突了，那就把这个插件再卸载掉：<br><code>npm uninstall hexo-generator-cname --save</code></p><blockquote><p>这样就会神奇地发现第一种方法可以用了！</p></blockquote><p>　　：）<br>　　笑死。我只能说毫无用处。</p><p><code>竟然以为搞定了，笑死</code></p><h5 id="最终"><a href="#最终" class="headerlink" title="最终"></a>最终</h5><p>　　现在是我试图解决这个问题的第22个小时。昨天晚上睡觉前发现，每一次新域名失效后，github pages setting中的用户自定义域名都会被改成另一个.com地址。此外，查看每一次部署后public文件夹内的CNAME文件也都显示该.com地址，说明我每次hexo deploy，source里的CNAME都会被抹去换成该.com。只能是某个更高级别的设置里写了这个地址。<br>　　忙完其他琐事，坐下来，将站点_config.yml里的url改成了新域名。<br>　　然后：<br><code>hexo clean</code><br><code>hexo g&amp;&amp;hexo d</code></p><p>　　好像ok了。</p>]]></content>
       
       
       <categories>
           
-          <category> 无用功 </category>
-          
           <category> blog </category>
+          
+          <category> 无用功 </category>
           
       </categories>
       
@@ -74,9 +74,9 @@
       
         <tags>
             
-            <tag> 深渊 </tag>
-            
             <tag> Jade pieces </tag>
+            
+            <tag> 深渊 </tag>
             
         </tags>
       
@@ -195,9 +195,9 @@
       
         <tags>
             
-            <tag> 感情哲学 </tag>
-            
             <tag> Jade pieces </tag>
+            
+            <tag> 感情哲学 </tag>
             
         </tags>
       
