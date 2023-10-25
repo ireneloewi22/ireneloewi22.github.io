@@ -5,9 +5,9 @@
   <subtitle>Irene&#39;s Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://irenesun.cn/"/>
+  <link href="https://irenesun.org.cn/"/>
   <updated>2022-08-17T08:25:31.063Z</updated>
-  <id>https://irenesun.cn/</id>
+  <id>https://irenesun.org.cn/</id>
   
   <author>
     <name>Irene</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Github更换域名每次部署后失效解决方案</title>
-    <link href="https://irenesun.cn/cl9f42xd1000n1wvw0oxkctyn.html"/>
-    <id>https://irenesun.cn/cl9f42xd1000n1wvw0oxkctyn.html</id>
+    <link href="https://irenesun.org.cn/cl9f42xd1000n1wvw0oxkctyn.html"/>
+    <id>https://irenesun.org.cn/cl9f42xd1000n1wvw0oxkctyn.html</id>
     <published>2022-08-16T15:00:03.528Z</published>
     <updated>2022-08-17T08:25:31.063Z</updated>
     
@@ -33,19 +33,19 @@
     </summary>
     
     
-      <category term="blog" scheme="https://irenesun.cn/categories/blog/"/>
+      <category term="blog" scheme="https://irenesun.org.cn/categories/blog/"/>
     
-      <category term="无用功" scheme="https://irenesun.cn/categories/%E6%97%A0%E7%94%A8%E5%8A%9F/"/>
+      <category term="无用功" scheme="https://irenesun.org.cn/categories/%E6%97%A0%E7%94%A8%E5%8A%9F/"/>
     
     
-      <category term="hello world" scheme="https://irenesun.cn/tags/hello-world/"/>
+      <category term="hello world" scheme="https://irenesun.org.cn/tags/hello-world/"/>
     
   </entry>
   
   <entry>
     <title>《政治秩序的起源：从前人类时代到法国大革命》</title>
-    <link href="https://irenesun.cn/reading-books-politicalorder-origins.html"/>
-    <id>https://irenesun.cn/reading-books-politicalorder-origins.html</id>
+    <link href="https://irenesun.org.cn/reading-books-politicalorder-origins.html"/>
+    <id>https://irenesun.org.cn/reading-books-politicalorder-origins.html</id>
     <published>2022-08-13T16:00:00.000Z</published>
     <updated>2022-08-17T14:31:35.332Z</updated>
     
@@ -66,19 +66,19 @@
     </summary>
     
     
-      <category term="阅读" scheme="https://irenesun.cn/categories/%E9%98%85%E8%AF%BB/"/>
+      <category term="阅读" scheme="https://irenesun.org.cn/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="福山" scheme="https://irenesun.cn/tags/%E7%A6%8F%E5%B1%B1/"/>
+      <category term="福山" scheme="https://irenesun.org.cn/tags/%E7%A6%8F%E5%B1%B1/"/>
     
-      <category term="政治" scheme="https://irenesun.cn/tags/%E6%94%BF%E6%B2%BB/"/>
+      <category term="政治" scheme="https://irenesun.org.cn/tags/%E6%94%BF%E6%B2%BB/"/>
     
   </entry>
   
   <entry>
     <title>上</title>
-    <link href="https://irenesun.cn/age-at-thirty.html"/>
-    <id>https://irenesun.cn/age-at-thirty.html</id>
+    <link href="https://irenesun.org.cn/age-at-thirty.html"/>
+    <id>https://irenesun.org.cn/age-at-thirty.html</id>
     <published>2021-12-18T06:01:07.777Z</published>
     <updated>2022-08-17T08:04:42.661Z</updated>
     
@@ -91,19 +91,19 @@
     </summary>
     
     
-      <category term="生活" scheme="https://irenesun.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://irenesun.org.cn/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="Jade pieces" scheme="https://irenesun.cn/tags/Jade-pieces/"/>
+      <category term="Jade pieces" scheme="https://irenesun.org.cn/tags/Jade-pieces/"/>
     
-      <category term="深渊" scheme="https://irenesun.cn/tags/%E6%B7%B1%E6%B8%8A/"/>
+      <category term="深渊" scheme="https://irenesun.org.cn/tags/%E6%B7%B1%E6%B8%8A/"/>
     
   </entry>
   
   <entry>
     <title>厌倦</title>
-    <link href="https://irenesun.cn/pieces-jaded.html"/>
-    <id>https://irenesun.cn/pieces-jaded.html</id>
+    <link href="https://irenesun.org.cn/pieces-jaded.html"/>
+    <id>https://irenesun.org.cn/pieces-jaded.html</id>
     <published>2021-09-16T11:02:40.008Z</published>
     <updated>2022-08-17T08:04:28.164Z</updated>
     
@@ -116,17 +116,17 @@
     </summary>
     
     
-      <category term="生活" scheme="https://irenesun.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://irenesun.org.cn/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="Jade pieces" scheme="https://irenesun.cn/tags/Jade-pieces/"/>
+      <category term="Jade pieces" scheme="https://irenesun.org.cn/tags/Jade-pieces/"/>
     
   </entry>
   
   <entry>
     <title>new device test</title>
-    <link href="https://irenesun.cn/pieces-test.html"/>
-    <id>https://irenesun.cn/pieces-test.html</id>
+    <link href="https://irenesun.org.cn/pieces-test.html"/>
+    <id>https://irenesun.org.cn/pieces-test.html</id>
     <published>2021-08-13T11:30:07.552Z</published>
     <updated>2022-08-17T08:03:17.714Z</updated>
     
@@ -143,15 +143,15 @@
     </summary>
     
     
-      <category term="blog" scheme="https://irenesun.cn/categories/blog/"/>
+      <category term="blog" scheme="https://irenesun.org.cn/categories/blog/"/>
     
     
   </entry>
   
   <entry>
     <title>你赢了</title>
-    <link href="https://irenesun.cn/pieces-you-win.html"/>
-    <id>https://irenesun.cn/pieces-you-win.html</id>
+    <link href="https://irenesun.org.cn/pieces-you-win.html"/>
+    <id>https://irenesun.org.cn/pieces-you-win.html</id>
     <published>2021-08-13T09:53:30.686Z</published>
     <updated>2022-08-17T08:04:54.503Z</updated>
     
@@ -164,17 +164,17 @@
     </summary>
     
     
-      <category term="生活" scheme="https://irenesun.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://irenesun.org.cn/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="Jade pieces" scheme="https://irenesun.cn/tags/Jade-pieces/"/>
+      <category term="Jade pieces" scheme="https://irenesun.org.cn/tags/Jade-pieces/"/>
     
   </entry>
   
   <entry>
     <title>现实仿佛总是容不下过多的感情</title>
-    <link href="https://irenesun.cn/pieces-nomoreemotions.html"/>
-    <id>https://irenesun.cn/pieces-nomoreemotions.html</id>
+    <link href="https://irenesun.org.cn/pieces-nomoreemotions.html"/>
+    <id>https://irenesun.org.cn/pieces-nomoreemotions.html</id>
     <published>2020-08-27T05:08:00.000Z</published>
     <updated>2022-08-17T08:05:40.491Z</updated>
     
@@ -187,17 +187,17 @@
     </summary>
     
     
-      <category term="生活" scheme="https://irenesun.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://irenesun.org.cn/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="Jade pieces" scheme="https://irenesun.cn/tags/Jade-pieces/"/>
+      <category term="Jade pieces" scheme="https://irenesun.org.cn/tags/Jade-pieces/"/>
     
   </entry>
   
   <entry>
     <title>半衰期</title>
-    <link href="https://irenesun.cn/pieces-half-life.html"/>
-    <id>https://irenesun.cn/pieces-half-life.html</id>
+    <link href="https://irenesun.org.cn/pieces-half-life.html"/>
+    <id>https://irenesun.org.cn/pieces-half-life.html</id>
     <published>2020-03-25T15:46:50.000Z</published>
     <updated>2022-08-17T08:05:09.045Z</updated>
     
@@ -210,19 +210,19 @@
     </summary>
     
     
-      <category term="生活" scheme="https://irenesun.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://irenesun.org.cn/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="Jade pieces" scheme="https://irenesun.cn/tags/Jade-pieces/"/>
+      <category term="Jade pieces" scheme="https://irenesun.org.cn/tags/Jade-pieces/"/>
     
-      <category term="感情哲学" scheme="https://irenesun.cn/tags/%E6%84%9F%E6%83%85%E5%93%B2%E5%AD%A6/"/>
+      <category term="感情哲学" scheme="https://irenesun.org.cn/tags/%E6%84%9F%E6%83%85%E5%93%B2%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>《国家构建：21世纪的国家治理与世界秩序》兼及其他</title>
-    <link href="https://irenesun.cn/reading-books-state-building.html"/>
-    <id>https://irenesun.cn/reading-books-state-building.html</id>
+    <link href="https://irenesun.org.cn/reading-books-state-building.html"/>
+    <id>https://irenesun.org.cn/reading-books-state-building.html</id>
     <published>2020-03-06T14:50:15.000Z</published>
     <updated>2020-03-08T10:07:52.000Z</updated>
     
@@ -235,19 +235,19 @@
     </summary>
     
     
-      <category term="阅读" scheme="https://irenesun.cn/categories/%E9%98%85%E8%AF%BB/"/>
+      <category term="阅读" scheme="https://irenesun.org.cn/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="国家构建" scheme="https://irenesun.cn/tags/%E5%9B%BD%E5%AE%B6%E6%9E%84%E5%BB%BA/"/>
+      <category term="国家构建" scheme="https://irenesun.org.cn/tags/%E5%9B%BD%E5%AE%B6%E6%9E%84%E5%BB%BA/"/>
     
-      <category term="福山" scheme="https://irenesun.cn/tags/%E7%A6%8F%E5%B1%B1/"/>
+      <category term="福山" scheme="https://irenesun.org.cn/tags/%E7%A6%8F%E5%B1%B1/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://irenesun.cn/pieces-hello.html"/>
-    <id>https://irenesun.cn/pieces-hello.html</id>
+    <link href="https://irenesun.org.cn/pieces-hello.html"/>
+    <id>https://irenesun.org.cn/pieces-hello.html</id>
     <published>2020-03-04T15:39:55.000Z</published>
     <updated>2022-08-17T08:03:04.941Z</updated>
     
@@ -260,10 +260,10 @@
     </summary>
     
     
-      <category term="blog" scheme="https://irenesun.cn/categories/blog/"/>
+      <category term="blog" scheme="https://irenesun.org.cn/categories/blog/"/>
     
     
-      <category term="hello world" scheme="https://irenesun.cn/tags/hello-world/"/>
+      <category term="hello world" scheme="https://irenesun.org.cn/tags/hello-world/"/>
     
   </entry>
   
